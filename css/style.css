@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	background-size: cover;
+	background-position: center;
 	color: black;
 	font-family: helvetica;
 }
